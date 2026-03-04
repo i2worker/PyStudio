@@ -26,15 +26,22 @@
 
 ### 1. 基础语法
 
-- Python官方文档(3.12.0)：[https://docs.python.org/3.12](https://docs.python.org/3.12)
+- Python官方文档(3.12.0)：[https://docs.python.org](https://docs.python.org/3.12)
 - Python之40个实例学习：[https://github.com/geekcomputers/Python](https://github.com/geekcomputers/Python)
 
 ### 2. 进阶核心
 
-- Python最佳实践指南：[https://pythonguidecn.readthedocs.io/zh/latest](https://pythonguidecn.readthedocs.io/zh/latest)
-- Python3 Cookbook(第3版)：[https://python3-cookbook.readthedocs.io/zh-cn/latest](https://python3-cookbook.readthedocs.io/zh-cn/latest)
+- Python最佳实践指南：[https://pythonguidecn.readthedocs.io](https://pythonguidecn.readthedocs.io/zh/latest)
+- Python3 Cookbook(第3版)：[https://python3-cookbook.readthedocs.io](https://python3-cookbook.readthedocs.io/zh-cn/latest)
 
 ### 3. 数据分析
 
 - 盖若:Python教程：[https://gairuo.com/p/python-tutorial](https://gairuo.com/p/python-tutorial)
 - 盖若:Pandas教程：[https://gairuo.com/p/pandas-tutorial](https://gairuo.com/p/pandas-tutorial)
+
+
+--------------------------------------------------------------------------------------------------------------
+
+> **⚠️说明：**
+> 1. 本仓库只记录书中重点知识，不面面俱到。
+> 2. 学习环境：Python3.12.0
