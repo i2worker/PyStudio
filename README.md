@@ -1,4 +1,4 @@
-<h2 align="center">蜗牛学Python：从基础语法到数据分析</h1>
+<h2 align="center">蜗牛学Python：从基础语法到数据分析</h2>
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/i2worker/PyStudio" alt="GitHub stars">
@@ -8,15 +8,16 @@
     <img src="https://img.shields.io/github/license/i2worker/PyStudio" alt="License">
 </p>
 
-## ⌨️ 基础语法
+## ⌨️ [基础语法](https://github.com/i2worker/PyStudio/tree/main/01pybasics)
+
+- Python编程:从入门到实践(第3版)：[https://github.com/i2worker/PyStudio/tree/main/01pybasics/01pycrashcourse](https://github.com/i2worker/PyStudio/tree/main/01pybasics/01pycrashcourse/README.md)
+
+
+## 🚀 [进阶核心](https://github.com/i2worker/PyStudio/tree/main/02pypro)
 
 
 
-## 🚀 进阶核心
-
-
-
-## 📊 数据分析
+## 📊 [数据分析](https://github.com/i2worker/PyStudio/tree/main/03pydata)
 
 
 
