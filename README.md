@@ -10,7 +10,8 @@
 
 ## ⌨️ [基础语法](https://github.com/i2worker/PyStudio/tree/main/01pybasics)
 
-- Python编程:从入门到实践(第3版)：[https://github.com/i2worker/PyStudio/tree/main/01pybasics/01pycrashcourse](https://github.com/i2worker/PyStudio/tree/main/01pybasics/01pycrashcourse/README.md)
+- [Python编程:从入门到实践(第3版)](/01pybasics/01pycrashcourse/README.md)
+
 
 
 ## 🚀 [进阶核心](https://github.com/i2worker/PyStudio/tree/main/02pypro)
@@ -35,5 +36,5 @@
 
 ### 3. 数据分析
 
-- 盖若：Python教程：[https://gairuo.com/p/python-tutorial](https://gairuo.com/p/python-tutorial)
-- 盖若：Pandas教程：[https://gairuo.com/p/pandas-tutorial](https://gairuo.com/p/pandas-tutorial)
+- 盖若:Python教程：[https://gairuo.com/p/python-tutorial](https://gairuo.com/p/python-tutorial)
+- 盖若:Pandas教程：[https://gairuo.com/p/pandas-tutorial](https://gairuo.com/p/pandas-tutorial)
