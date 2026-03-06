@@ -1,8 +1,9 @@
 <h2 align="center">Python编程：从入门到实践(第3版)</h2>
 
-<p align="center"><img src="../../09assets/imgs/2026001.jpg" width="300" alt="Python编程：从入门到实践(第3版)"></p>
+<p align="center"><a href="https://book.douban.com/subject/36365320"><img src="../../09assets/imgs/2026001.jpg" width="300" alt="Python编程：从入门到实践(第3版)"></a></p>
 
 --------------------------------------------------------------------------------------------------------------
 
 - [第01章 起步](./第01章-起步.ipynb)
 - [第02章 变量和简单的数据类型](./第02章-变量和简单的数据类型.ipynb)
+- [第03章 列表简介](./第03章-列表简介.ipynb)
