@@ -2,13 +2,13 @@
 
 <h2 align="center">🐌蜗牛学Python：从基础语法到数据分析</h2>
 
-<p align="center">
+<div align="center">
     <img src="https://img.shields.io/github/stars/i2worker/PyStudio?style=flat-square&logo=github&color=brightgreen&label=Star" alt="星标">
     <img src="https://img.shields.io/github/forks/i2worker/PyStudio?style=flat-square&logo=github&color=brightgreen&label=Fork" alt="复刻">
     <img src="https://img.shields.io/github/license/i2worker/PyStudio?style=flat-square&logo=github&color=brightgreen&label=License" alt="许可">
     <img src="https://img.shields.io/badge/Python-3.12-brightgreen?style=flat-square&logo=python&logoColor=ffffff" alt="环境">
-    <img src="https://img.shields.io/badge/Language-Chinese-brightgreen?style=flat-square" alt="语言"/>
-</p>
+    <img src="https://img.shields.io/badge/Language-Chinese-brightgreen?style=flat-square" alt="语言">
+</div>
 
 欢迎来到<strong>「🐌蜗牛学Python：从基础语法到数据分析」</strong>个人学习笔记仓库。
 
@@ -36,12 +36,12 @@
 
 ### 1.3 学习资源
 
-- Python官方文档(3.12)：[https://docs.python.org](https://docs.python.org/3.12)
-- 廖雪峰:Python教程：[https://liaoxuefeng.com/books/python/introduction/index.html](https://liaoxuefeng.com/books/python/introduction/index.html)
-- 盖若:Python教程：[https://gairuo.com/p/python-tutorial](https://gairuo.com/p/python-tutorial)
-- 菜鸟教程:Python教程：[https://www.runoob.com/python3/python3-tutorial.html](https://www.runoob.com/python3/python3-tutorial.html)
-- Python之40个实例学习：[https://github.com/geekcomputers/Python](https://github.com/geekcomputers/Python)
-- B站视频教程：[黑马程序员](https://space.bilibili.com/37974444)、[尚硅谷](https://space.bilibili.com/302417610)
+- [Python官方文档(3.12)](https://docs.python.org/zh-cn/3.12)：官方文档，详尽权威，涵盖标准库、语言参考与实战指南，适合开发者随时查看、解疑释惑。
+- [廖雪峰:Python教程](https://liaoxuefeng.com/books/python/introduction/index.html)：内容系统，语言通俗，从基础语法到高级特性循序渐进，被国内众多开发者奉为“入门圣经”。
+- [盖若:Python教程](https://gairuo.com/p/python-tutorial)：内容通俗易懂，案例贴近实战，注重实际应用而非理论堆砌，是初学者高效掌握Python的优质轻量级指南。
+- [菜鸟教程:Python教程](https://www.runoob.com/python3/python3-tutorial.html)：内容全面、结构清晰，配合在线示例与一键运行功能，是中文环境下广受欢迎的免费入门学习资源。
+- [Python之40个实例学习](https://github.com/geekcomputers/Python)：通过40多个简洁实用的小程序，帮助学习者边做边学，巩固核心语法，提升实战能力。
+- B站视频教程：[黑马程序员-Python零基础教程](https://www.bilibili.com/video/BV1qW4y1a7fU)、[尚硅谷-Python新手到王者](https://space.bilibili.com/302417610)。
 
 <div align="right"><a href="#top"><img src="https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square" alt="返回顶部"></a></div>
 
@@ -61,18 +61,15 @@
 
 - ⚪ 流畅的Python(第2版)
 - ⚪ Effective Python:编写高质量Python代码的90个有效方法(第2版)
-- ⚪ Python3 Cookbook(第3版)
-- ⚪ Python工匠:案例、技巧与工程实践
-- ⚪ Hello算法
+- ⚪ Python3 Cookbook(第3版)：[官网资料](https://python3-cookbook.readthedocs.io/zh-cn/latest)
+- ⚪ Python工匠:案例、技巧与工程实践：[官网资料](https://github.com/piglei/one-python-craftsman)
+- ⚪ Hello算法：[官网资料](https://github.com/krahets/hello-algo)
 - ⚪ 数据结构与算法:Python语言描述
 - ⚪ 算法图解(第2版)
 
 ### 2.3 学习资源
 
-- Python最佳实践指南：[https://pythonguidecn.readthedocs.io](https://pythonguidecn.readthedocs.io/zh/latest)
-- Python3 Cookbook(第3版)：[https://python3-cookbook.readthedocs.io](https://python3-cookbook.readthedocs.io/zh-cn/latest)
-- Python工匠:案例、技巧与工程实践：[https://github.com/piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman)
-- Hello算法：[https://github.com/krahets/hello-algo](https://github.com/krahets/hello-algo)
+- [Python最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest)：系统总结Python开发规范与最佳实践，适合中高级开发者提升代码质量。
 
 <div align="right"><a href="#top"><img src="https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square" alt="返回顶部"></a></div>
 
@@ -95,8 +92,8 @@
 
 ### 3.3 学习资源
 
-- 盖若:Pandas教程：[https://gairuo.com/p/pandas-tutorial](https://gairuo.com/p/pandas-tutorial)
-- B站视频：[黑马程序员Python数据分析](https://www.bilibili.com/video/BV1ReshzoEgG)
+- [盖若:Pandas教程](https://gairuo.com/p/pandas-tutorial)：教程结构清晰，注重实战，是学习Python数据处理的高性价比入门资源。
+- B站视频教程：[黑马程序员-Python数据分析](https://www.bilibili.com/video/BV1ReshzoEgG)、[尚硅谷-Python数据分析](https://www.bilibili.com/video/BV1D9GLzyEL6)。
 
 <div align="right"><a href="#top"><img src="https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square" alt="返回顶部"></a></div>
 
@@ -107,8 +104,4 @@
 > 1. 本仓库学习书单只是本人学习过程中挑选的书目，因人而异仅供参考。
 > 2. 本仓库学习笔记只记录所读书中的重点知识，不追求面面俱到。
 > 3. 本仓库学习环境：Win10 + Miniconda(Python3.12) + VSCode + Jupyter。
-> 4. 如果在线阅读的话，推荐[Tampermonkey][Tampermonkey] + [GitHub界面美化)][main.user.js] 效果更佳(需安装Open Sans、Cascadia Mono字体)。
-
-
-[Tampermonkey]: http://tampermonkey.net/ "篡改猴"
-[main.user.js]: https://github.com/i2worker/PyStudio/raw/main/09assets/js/main.user.js "GitHub界面美化"
+> 4. 如在线阅读，推荐 [Tampermonkey](http://tampermonkey.net) + [GitHub界面美化](https://github.com/i2worker/PyStudio/raw/main/09assets/js/main.user.js) 效果更佳(需安装Open Sans、Cascadia Mono字体)。
