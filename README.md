@@ -2,13 +2,13 @@
 
 <h2 align="center">🐌蜗牛学Python：从基础语法到数据分析</h2>
 
-<div align="center">
+<p align="center">
     <img src="https://img.shields.io/github/stars/i2worker/PyStudio?style=flat-square&logo=github&color=brightgreen&label=Star" alt="星标">
     <img src="https://img.shields.io/github/forks/i2worker/PyStudio?style=flat-square&logo=github&color=brightgreen&label=Fork" alt="复刻">
     <img src="https://img.shields.io/github/license/i2worker/PyStudio?style=flat-square&logo=github&color=brightgreen&label=License" alt="许可">
     <img src="https://img.shields.io/badge/Python-3.12-brightgreen?style=flat-square&logo=python&logoColor=ffffff" alt="环境">
     <img src="https://img.shields.io/badge/Language-Chinese-brightgreen?style=flat-square" alt="语言">
-</div>
+</p>
 
 欢迎来到<strong>「🐌蜗牛学Python：从基础语法到数据分析」</strong>个人学习笔记仓库。
 
@@ -36,11 +36,11 @@
 
 ### 1.3 学习资源
 
-- [Python官方文档(3.12)](https://docs.python.org/zh-cn/3.12)：官方文档，详尽权威，涵盖标准库、语言参考与实战指南，适合开发者随时查看、解疑释惑。
-- [廖雪峰:Python教程](https://liaoxuefeng.com/books/python/introduction/index.html)：内容系统，语言通俗，从基础语法到高级特性循序渐进，被国内众多开发者奉为“入门圣经”。
-- [盖若:Python教程](https://gairuo.com/p/python-tutorial)：内容通俗易懂，案例贴近实战，注重实际应用而非理论堆砌，是初学者高效掌握Python的优质轻量级指南。
-- [菜鸟教程:Python教程](https://www.runoob.com/python3/python3-tutorial.html)：内容全面、结构清晰，配合在线示例与一键运行功能，是中文环境下广受欢迎的免费入门学习资源。
-- [Python之40个实例学习](https://github.com/geekcomputers/Python)：通过40多个简洁实用的小程序，帮助学习者边做边学，巩固核心语法，提升实战能力。
+- [Python官方文档(3.12)](https://docs.python.org/zh-cn/3.12)：官方文档，详尽权威，适合开发者随时查看、解疑释惑。
+- [廖雪峰:Python教程](https://liaoxuefeng.com/books/python/introduction/index.html)：从基础语法到高级特性循序渐进，被国内众多开发者奉为“入门圣经”。
+- [盖若:Python教程](https://gairuo.com/p/python-tutorial)：内容通俗易懂，案例贴近实战，是初学者高效掌握Python的优质轻量级指南。
+- [菜鸟教程:Python教程](https://www.runoob.com/python3/python3-tutorial.html)：配合在线示例与一键运行功能，是中文环境下广受欢迎的免费入门学习资源。
+- [Python之40个实例学习](https://github.com/geekcomputers/Python)：通过40多个简洁实用的小程序，帮助学习者巩固核心语法，提升实战能力。
 - B站视频教程：[黑马程序员-Python零基础教程](https://www.bilibili.com/video/BV1qW4y1a7fU)、[尚硅谷-Python新手到王者](https://space.bilibili.com/302417610)。
 
 <div align="right"><a href="#top"><img src="https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square" alt="返回顶部"></a></div>
@@ -92,7 +92,7 @@
 
 ### 3.3 学习资源
 
-- [盖若:Pandas教程](https://gairuo.com/p/pandas-tutorial)：教程结构清晰，注重实战，是学习Python数据处理的高性价比入门资源。
+- [盖若:Pandas教程](https://gairuo.com/p/pandas-tutorial)：教程结构清晰，注重实战，是学习Python数据处理的入门资源。
 - B站视频教程：[黑马程序员-Python数据分析](https://www.bilibili.com/video/BV1ReshzoEgG)、[尚硅谷-Python数据分析](https://www.bilibili.com/video/BV1D9GLzyEL6)。
 
 <div align="right"><a href="#top"><img src="https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square" alt="返回顶部"></a></div>
