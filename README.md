@@ -104,6 +104,11 @@
 
 > [!IMPORTANT]
 > ⚠️说明：
-> 1. 本仓库学习书单只是本人学习过程，因人而异仅供参考。
-> 2. 本仓库学习笔记只记录书中重点知识，不追求面面俱到。
-> 3. 本仓库学习环境：Miniconda(Python3.12) + VSCode + Jupyter。
+> 1. 本仓库学习书单只是本人学习过程中挑选的书目，因人而异仅供参考。
+> 2. 本仓库学习笔记只记录所读书中的重点知识，不追求面面俱到。
+> 3. 本仓库学习环境：Win10 + Miniconda(Python3.12) + VSCode + Jupyter。
+> 4. 如果在线阅读的话，推荐[Tampermonkey][Tampermonkey] + [GitHub界面美化)][main.user.js] 效果更佳(需安装Open Sans、Cascadia Mono字体)。
+
+
+[Tampermonkey]: http://tampermonkey.net/ "篡改猴"
+[main.user.js]: https://github.com/i2worker/PyStudio/raw/main/09assets/js/main.user.js "GitHub界面美化"
