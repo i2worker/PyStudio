@@ -1,0 +1,23 @@
+name: pystudio
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip>=26.0
+  - notebook
+  - lxml
+  - beautifulsoup4
+  - html5lib
+  - requests
+  - xlsxwriter
+  - xlrd
+  - openpyxl
+  - pandas
+  - numpy
+  - matplotlib
+  - bokeh
+  - seaborn
+  - plotly
+  - statsmodels
+  - scipy
+  - scikit-learn
