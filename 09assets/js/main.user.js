@@ -3,7 +3,7 @@
 // @namespace    https://github.com/i2worker/PyStudio
 // @description  Github界面美化，包括浏览Jupyter等界面。
 // @icon         https://github.githubassets.com/pinned-octocat.svg
-// @version      0.0.2
+// @version      0.0.3
 // @author       i2worker
 // @license      GPL-3.0
 // @match        https://github.com/*
@@ -22,16 +22,27 @@
 const jupyterStyle = `
 :root {
     /** 内容字体 **/
-    --jp-content-font-family: "Open Sans Light", "Microsoft YaHei Light", "PingFang SC", system-ui, -apple-system, blinkmacsystemfont, 'Segoe UI', helvetica, arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol' !important;
+    --jp-content-font-family: "Open Sans", "Microsoft YaHei", "PingFang SC", system-ui, -apple-system, blinkmacsystemfont, 'Segoe UI', helvetica, arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol' !important;
 
     /** 内容行高 **/
     --jp-content-line-height: 1.80 !important;
 
+    /** 加粗字体 **/
+    --jp-content-strong-font-family: "Open Sans", "Microsoft YaHei Light", "PingFang SC", system-ui, -apple-system, blinkmacsystemfont, 'Segoe UI', helvetica, arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol' !important;
+
+    /** 标题字体字重 **/
+    --jp-content-heading-font-weight: 600 !important;
+
     /** 代码字体 **/
-    --jp-code-font-family: "Cascadia Mono Light", "Microsoft YaHei Light", "PingFang SC", menlo, consolas, 'DejaVu Sans Mono', monospace !important;
+    --jp-code-font-family: "Cascadia Mono", "Microsoft YaHei", "PingFang SC", menlo, consolas, 'DejaVu Sans Mono', monospace !important;
 
     /** 代码行高 **/
     --jp-code-font-size: 12px !important;
+}
+
+/** 加粗字体 **/
+div.jp-RenderedHTMLCommon strong {
+    font-family: var(--jp-content-strong-font-family);
 }
 
 /** 代码框字体 **/
@@ -44,6 +55,11 @@ div.cm-editor pre {
 /** 代码框提示字体大小 **/
 div.jp-InputPrompt {
     font-size: 10px !important;
+}
+
+/** 代码框注释 **/
+div.highlight .c1 {
+    font-style: normal !important;
 }
 `;
 
