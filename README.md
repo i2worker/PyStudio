@@ -29,7 +29,7 @@
 
 ### 1.2 学习书单
 
-- ➡️ [Python编程:从入门到实践(第3版)](/01pybasics/01pycrashcourse/README.md)
+- ➡️ [Python编程:从入门到实践(第3版)](/01pybasics/01pycrashcourse/README.md)：详细介绍数据结构、控制流、OOP范式、异常处理等语法(有很多练习)，并通过三个项目(游戏、数据可视化、Web应用)，实现从编码到部署的完整实践。
 - ⚪ Python编程快速上手(第2版)
 - ⚪ Python基础教程(第3版)
 - ⚪ Python学习手册(第5版)
