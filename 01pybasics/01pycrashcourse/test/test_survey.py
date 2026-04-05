@@ -2,8 +2,7 @@ import sys
 import os
 sys.path.insert(0, os.path.dirname(os.getcwd()))
 
-
-import pytest # type: ignore
+import pytest
 from mod.survey import AnonymousSurvey
 
 @pytest.fixture

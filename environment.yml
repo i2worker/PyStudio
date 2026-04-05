@@ -1,8 +1,6 @@
 name: pystudio
 channels:
   - conda-forge
-  - defaults
-channel_priority: strict
 dependencies:
   # 基础工具
   - python=3.12
@@ -41,3 +39,6 @@ dependencies:
 
   # 测试代码
   - pytest>=9.0.0
+
+  # 游戏开发
+  - pygame>=2.6.0
