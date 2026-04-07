@@ -1,6 +1,6 @@
 import pygame
 
-class Ship:
+class Ship():
     '''管理飞船的类'''
 
     def __init__(self, game):
@@ -10,7 +10,7 @@ class Ship:
         self.screen_rect = self.screen.get_rect()
         self.settings = game.settings
 
-        # 加载飞船图像，获取矩形对象，设置初始位置为屏幕底部居中
+        # 加载飞船图像，设置初始位置为屏幕底部居中
         self.image = pygame.image.load('images/ship.bmp')
         self.rect = self.image.get_rect()
         self.rect.midbottom = self.screen_rect.midbottom
@@ -36,3 +36,8 @@ class Ship:
     def blitme(self):
         '''在指定位置绘制飞船'''
         self.screen.blit(self.image, self.rect)
+
+    def center_ship(self):
+        '''将飞船居中显示'''
+        self.rect.midbottom = self.screen_rect.midbottom
+        self.x = float(self.rect.x)
