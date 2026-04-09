@@ -3,7 +3,7 @@
 // @namespace    https://github.com/i2worker/PyStudio
 // @description  Github界面美化，包括浏览Jupyter等界面。
 // @icon         https://github.githubassets.com/pinned-octocat.svg
-// @version      0.0.3
+// @version      0.0.4
 // @author       i2worker
 // @license      GPL-3.0
 // @match        https://github.com/*
@@ -36,7 +36,7 @@ const jupyterStyle = `
     /** 代码字体 **/
     --jp-code-font-family: "Cascadia Mono", "Microsoft YaHei", "PingFang SC", menlo, consolas, 'DejaVu Sans Mono', monospace !important;
 
-    /** 代码行高 **/
+    /** 代码字体大小 **/
     --jp-code-font-size: 12px !important;
 }
 
@@ -60,6 +60,11 @@ div.jp-InputPrompt {
 /** 代码框注释 **/
 div.highlight .c1 {
     font-style: normal !important;
+}
+
+/** 输出框字体 **/
+div.jp-RenderedText pre {
+    font-family: var(--jp-code-font-family);
 }
 `;
 
