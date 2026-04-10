@@ -1,6 +1,6 @@
 <h2 align="center">Python编程：从入门到实践(第3版)</h2>
 
-<p align="center"><a href="https://book.douban.com/subject/36365320"><img src="../../09assets/imgs/2026001.jpg" width="300" alt="Python编程：从入门到实践(第3版)"></a></p>
+<p align="center"><a href="https://book.douban.com/subject/36365320"><img src="img/001.jpg" width="300" alt="Python编程：从入门到实践(第3版)"></a></p>
 
 - 作者：(美)埃里克•马瑟斯(Eric Matthes)
 - 译者：袁国忠

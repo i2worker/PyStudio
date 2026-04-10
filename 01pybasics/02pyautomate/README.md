@@ -1,6 +1,6 @@
 <h2 align="center">Python编程快速上手：让烦琐工作自动化(第3版)</h2>
 
-<p align="center"><a href="https://book.douban.com/subject/37870127"><img src="../../09assets/imgs/2026003.jpg" width="300" alt="Python编程快速上手：让烦琐工作自动化(第3版)"></a></p>
+<p align="center"><a href="https://book.douban.com/subject/37870127"><img src="img/001.jpg" width="300" alt="Python编程快速上手：让烦琐工作自动化(第3版)"></a></p>
 
 - 作者: 阿尔•斯维加特(Al Sweigart)
 - 译者：袁国忠
@@ -9,7 +9,7 @@
 <hr style="height:1px; border:none; background-color:#d1d9e0b3;">
 
 - **第一部分　编程基础**
-    - 第01章　Python基础
+    - [第01章　Python基础](./第01章-Python基础.ipynb)
     - 第02章　if-else和流程控制
     - 第03章　循环
     - 第04章　函数
