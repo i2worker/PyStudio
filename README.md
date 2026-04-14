@@ -61,8 +61,8 @@
 
 - ⚪ 流畅的Python(第2版)
 - ⚪ Effective Python:编写高质量Python代码的90个有效方法(第2版)
-- ⚪ Python3 Cookbook(第3版)：[官网资料](https://python3-cookbook.readthedocs.io/zh-cn/latest)
 - ⚪ Python工匠:案例、技巧与工程实践：[官网资料](https://github.com/piglei/one-python-craftsman)
+- ⚪ Python3 Cookbook(第3版)：[官网资料](https://python3-cookbook.readthedocs.io/zh-cn/latest)
 - ⚪ Hello算法：[官网资料](https://github.com/krahets/hello-algo)
 - ⚪ 数据结构与算法:Python语言描述
 - ⚪ 算法图解(第2版)
