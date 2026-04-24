@@ -24,7 +24,7 @@
     - [第12章　设计并部署命令行程序](./第12章-设计并部署命令行程序.ipynb)
     - [第13章　Web内容爬取](./第13章-Web内容爬取.ipynb)
     - [第14章　Excel电子表格](./第14章-Excel电子表格.ipynb)
-    - 第15章　Google Sheets
+    - [第15章　Google Sheets](./第15章-GoogleSheets.ipynb)
     - 第16章　SQLite数据库
     - 第17章　PDF文档和Word文档
     - 第18章　CSV、JSON和XML文件
