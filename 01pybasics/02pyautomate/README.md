@@ -25,7 +25,7 @@
     - [第13章　Web内容爬取](./第13章-Web内容爬取.ipynb)
     - [第14章　Excel电子表格](./第14章-Excel电子表格.ipynb)
     - [第15章　Google Sheets](./第15章-GoogleSheets.ipynb)
-    - 第16章　SQLite数据库
+    - [第16章　SQLite数据库](./第16章-SQLite数据库.ipynb)
     - 第17章　PDF文档和Word文档
     - 第18章　CSV、JSON和XML文件
     - 第19章　记录时间、调度任务和启动程序
