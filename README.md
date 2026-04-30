@@ -18,6 +18,8 @@
 
 希望这份带着个人学习体温的笔记，不仅能梳理我的思路，也能为同样在Python学习道路上探索的你，提供一份真实的参考地图和一星半点的启发。学习之路，道阻且长，行则将至，让我们如蜗牛般，保持耐心，持续前进。
 
+- [Python学习路线图(图灵书单版)](/09assets/pdf/Python学习路线图(图灵书单版).pdf)：以图灵教育出版的书籍为线索，介绍Python学习路线，包括入门、进阶、算法、数学、数据分析、网络爬虫、Web开发、机器学习、安全等领域。
+
 ## ⌨️ 1. 基础入门
 
 ### 1.1 学习内容
@@ -32,6 +34,7 @@
 - ➡️ [Python编程:从入门到实践(第3版)](/01pybasics/01pycrashcourse/README.md)：详细介绍数据结构、控制流、OOP范式、异常处理等语法(有很多练习)，并通过三个项目(游戏、数据可视化、Web应用)，实现从编码到部署的完整实践。
 - ➡️ [Python编程快速上手(第3版)](/01pybasics/02pyautomate/README.md)：本书基于Python3.13，先简单介绍Python基础知识，然后通过丰富的实际案例教你用Python解决日常问题，如整理文件夹、填报电子表格、抓取网页数据等。
 - ⚪ Python基础教程(第3版)
+- ⚪ Python语言及其应用(第2版)
 - ⚪ Python学习手册(第5版)
 
 ### 1.3 学习资源
@@ -61,6 +64,7 @@
 
 - ⚪ Python工匠:案例、技巧与工程实践：[官网资料](https://github.com/piglei/one-python-craftsman)
 - ⚪ 流畅的Python(第2版)
+- ⚪ Python编程轻松进阶
 - ⚪ Effective Python:编写高质量Python代码的90个有效方法(第2版)
 - ⚪ Python3 Cookbook(第3版)：[官网资料](https://python3-cookbook.readthedocs.io/zh-cn/latest)
 - ⚪ Hello算法：[官网资料](https://github.com/krahets/hello-algo)
