@@ -31,9 +31,9 @@
 
 ### 1.2 学习书单
 
-- ➡️ [Python编程:从入门到实践(第3版)](/01pybasics/01pycrashcourse/README.md)：详细介绍数据结构、控制流、OOP范式、异常处理等语法(有很多练习)，并通过三个项目(游戏、数据可视化、Web应用)，实现从编码到部署的完整实践。
-- ➡️ [Python编程快速上手(第3版)](/01pybasics/02pyautomate/README.md)：本书基于Python3.13，先简单介绍Python基础知识，然后通过丰富的实际案例教你用Python解决日常问题，如整理文件夹、填报电子表格、抓取网页数据等。
-- ⚪ Python基础教程(第3版)
+- ➡️ [Python编程:从入门到实践(第3版)](/01pybasics/01pycrashcourse/README.md)：本书详细介绍数据结构、控制流程、函数等基础语法，并通过三个项目介绍从编码到部署的完整实践，但内容较基础，适合没有编程经验的读者。
+- ➡️ [Python编程快速上手(第3版)](/01pybasics/02pyautomate/README.md)：本书先简单介绍Python基础知识，然后通过丰富的实际案例教你用Python解决日常问题，但介绍基础知识较少，主要是关注实际应用、第三库的使用。
+- ➡️ [Python基础教程(第3版)](/01pybasics/03pybeginning/README.md)：本书先详细介绍Python的基础语法，然后循序渐进介绍相对高级的主题，最后按照项目开发步骤介绍了10个Python项目的开发过程。
 - ⚪ Python语言及其应用(第2版)
 - ⚪ Python学习手册(第5版)
 
