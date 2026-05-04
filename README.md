@@ -35,6 +35,8 @@
 - ➡️ [Python编程快速上手(第3版)](/01pybasics/02pyautomate/README.md)：本书先简单介绍Python基础知识，然后通过丰富的实际案例教你用Python解决日常问题，但介绍基础知识较少，主要是关注实际应用、第三库的使用。
 - ➡️ [Python基础教程(第3版)](/01pybasics/03pybeginning/README.md)：本书先详细介绍Python的基础语法，然后循序渐进介绍相对高级的主题，最后按照项目开发步骤介绍了10个Python项目的开发过程。
 - ⚪ Python语言及其应用(第2版)
+- ⚪ Python编程入门与实战(第3版)
+- ⚪ Python编程从新手到高手
 - ⚪ Python学习手册(第5版)
 
 ### 1.3 学习资源
@@ -43,6 +45,7 @@
 - [廖雪峰:Python教程](https://liaoxuefeng.com/books/python/introduction/index.html)：从基础语法到高级特性循序渐进，被国内众多开发者奉为“入门圣经”。
 - [盖若:Python教程](https://gairuo.com/p/python-tutorial)：内容通俗易懂，案例贴近实战，是初学者高效掌握Python的优质轻量级指南。
 - [菜鸟教程:Python教程](https://www.runoob.com/python3/python3-tutorial.html)：配合在线示例与一键运行功能，是中文环境下广受欢迎的免费入门学习资源。
+- [Python:100天从新手到大师](https://github.com/jackfrued/Python-100-Days)：通过100天的Python项目学习，帮助学习者系统地掌握Python。
 - [Python之40个实例学习](https://github.com/geekcomputers/Python)：通过40多个简洁实用的小程序，帮助学习者巩固核心语法，提升实战能力。
 - B站视频教程：[黑马程序员-Python零基础教程](https://www.bilibili.com/video/BV1qW4y1a7fU)、[尚硅谷-Python新手到王者](https://space.bilibili.com/302417610)。
 
@@ -64,10 +67,13 @@
 
 - ⚪ Python工匠:案例、技巧与工程实践：[官网资料](https://github.com/piglei/one-python-craftsman)
 - ⚪ 流畅的Python(第2版)
-- ⚪ Python编程轻松进阶
 - ⚪ Effective Python:编写高质量Python代码的90个有效方法(第2版)
 - ⚪ Python3 Cookbook(第3版)：[官网资料](https://python3-cookbook.readthedocs.io/zh-cn/latest)
+- ⚪ Python编程轻松进阶
+- ⚪ 强劲的Python:现代Python编程的模式与策略
+- ⚪ 健壮的Python
 - ⚪ Hello算法：[官网资料](https://github.com/krahets/hello-algo)
+- ⚪ 秒懂算法:用常识解读数据结构与算法
 - ⚪ 数据结构与算法:Python语言描述
 - ⚪ 算法图解(第2版)
 
