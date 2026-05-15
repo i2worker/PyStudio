@@ -9,7 +9,7 @@
 <hr style="height:1px; border:none; background-color:#d1d9e0b3;">
 
 - **第一部分 Python基础**
-    - 第01章　Python初探
+    - [第01章　Python初探](./第01章-Python初探.ipynb)
     - 第02章　数据：类型、值、变量和名称
     - 第03章　数字
     - 第04章　if语句
