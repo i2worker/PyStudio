@@ -8,7 +8,7 @@
 
 <hr style="height:1px; border:none; background-color:#d1d9e0b3;">
 
-- 第01章　Python概述
+- [第01章　Python概述](./第01章-Python概述.ipynb)
 - 第02章　内置的数据类型
 - 第03章　迭代和决策
 - 第04章　函数
