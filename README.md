@@ -36,8 +36,8 @@
 - ➡️ [Python基础教程(第3版)](/01pybasics/03pybeginning/README.md)：本书详细介绍Python基础语法，然后讲解相对高级的主题，最后介绍10个Python项目开发过程。每章节逻辑性不是很清晰，配合AI辅助学习更好。
 - ➡️ [Python语言及其应用(第2版)](/01pybasics/04pyIntroducing/README.md)：本书基础篇深入浅出地讲解变量、数据类型、函数及类等核心语法，应用篇广泛涉猎Web开发、数据库、并发编程及数据科学等实战领域。
 - ➡️ [Python编程入门与实战(第3版)](/01pybasics/05pylearnprogram/README.md)：本书介绍了数据类型、条件、循环、函数、类等基本概念，展示了生成器、装饰器、迭代器等进阶理念，并讲解了GUI、数据科学、API等场景开发。
-- ⚪ Python编程从新手到高手
-- ⚪ Python学习手册(第5版)
+- ➡️ [Python编程从新手到高手](./01pybasics/06pydeadsimple/README.md)：本书全面细致地介绍了Python的各个功能、逻辑和惯用模式，以便读者快速编写出专业、地道、实用的Python程序，从Python新手成长为高手。
+- ⚪ Python学习手册(第5版)：略。
 
 ### 1.3 学习资源
 
