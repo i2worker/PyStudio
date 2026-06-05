@@ -9,7 +9,7 @@
 <hr style="height:1px; border:none; background-color:#d1d9e0b3;">
 
 - **第一部分　Python环境**
-    - 第01章　Python的哲学
+    - [第01章　Python的哲学](./第01章-Python的哲学.ipynb)
     - 第02章　Python开发环境
     - 第03章　语法速成课程
     - 第04章　项目结构和代码导入
