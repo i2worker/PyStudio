@@ -37,7 +37,7 @@
 - ➡️ [Python语言及其应用(第2版)](/01pybasics/04pyIntroducing/README.md)：本书基础篇深入浅出地讲解变量、数据类型、函数及类等核心语法，应用篇广泛涉猎Web开发、数据库、并发编程及数据科学等实战领域。
 - ➡️ [Python编程入门与实战(第3版)](/01pybasics/05pylearnprogram/README.md)：本书介绍了数据类型、条件、循环、函数、类等基本概念，展示了生成器、装饰器、迭代器等进阶理念，并讲解了GUI、数据科学、API等场景开发。
 - ➡️ [Python编程从新手到高手](./01pybasics/06pydeadsimple/README.md)：本书全面细致地介绍了Python的各个功能、逻辑和惯用模式，以便读者快速编写出专业、地道、实用的Python程序，从Python新手成长为高手。
-- ⚪ Python学习手册(第5版)：略。
+- ⚪ Python学习手册(第5版)
 
 ### 1.3 学习资源
 
@@ -65,16 +65,15 @@
 
 ### 2.2 学习书单
 
-- ⚪ Python工匠:案例、技巧与工程实践：[官网资料](https://github.com/piglei/one-python-craftsman)
 - ⚪ 流畅的Python(第2版)
+- ⚪ 强劲的Python:现代Python编程的模式与策略
+- ⚪ 健壮的Python
+- ⚪ Python工匠:案例、技巧与工程实践：[官网资料](https://github.com/piglei/one-python-craftsman)
 - ⚪ Effective Python:编写高质量Python代码的90个有效方法(第2版)
 - ⚪ Python3 Cookbook(第3版)：[官网资料](https://python3-cookbook.readthedocs.io/zh-cn/latest)
 - ⚪ Python编程轻松进阶
-- ⚪ 强劲的Python:现代Python编程的模式与策略
-- ⚪ 健壮的Python
 - ⚪ Hello算法：[官网资料](https://github.com/krahets/hello-algo)
 - ⚪ 秒懂算法:用常识解读数据结构与算法
-- ⚪ 数据结构与算法:Python语言描述
 - ⚪ 算法图解(第2版)
 
 ### 2.3 学习资源
